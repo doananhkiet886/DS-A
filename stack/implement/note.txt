@@ -1,1 +1,1 @@
-Còn thiếu simle array based stack
+Còn thiếu simple array based stack
